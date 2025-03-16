@@ -1,1 +1,1 @@
-![snake gif](https://github.com/Dmitry123654789/Dmitry123654789/blob/output/github-contribution-grid-snake.gif)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Dmitry123654789/Dmitry123654789/output/github-contribution-grid-snake-dark.svg)
